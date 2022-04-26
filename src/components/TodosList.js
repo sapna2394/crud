@@ -1,7 +1,4 @@
 import React from 'react'
-// import 'font-awesome/css/font-awesome.min.css';
-// import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-
 
 const TodosList = ({todos,setTodos,setEditTodo}) => {
     const handleComplete=(todo)=>{
